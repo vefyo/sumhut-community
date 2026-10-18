@@ -1,0 +1,24 @@
+# sumhut
+
+> sumhut estimates everyday object mass, weight force and available volume, alongside food calories and reported nutrients. Website: https://sumhut.com/. English is the default language.
+
+## Product documentation
+
+- [English](https://sumhut.com/docs/README.md): Product overview and capabilities.
+- [Español](https://sumhut.com/docs/README.es.md): Presentación en español.
+- [Português](https://sumhut.com/docs/README.pt.md): Apresentação em português.
+- [简体中文](https://sumhut.com/docs/README.zh-CN.md): 产品与功能介绍。
+- [繁體中文](https://sumhut.com/docs/README.zh-TW.md): 產品與功能介紹。
+- [Complete guide](https://sumhut.com/llms-full.txt): Interpretation, limitations and citation guidance.
+- [Data sources](https://sumhut.com/docs/data-sources.md): USDA sources, catalog scope and missing-data handling.
+- [Examples](https://sumhut.com/docs/examples.md): Quantity, food portions and combinations.
+- [FAQ](https://sumhut.com/docs/faq.md): Common questions.
+
+## Public website
+
+- [Home](https://sumhut.com/): Search foods and objects.
+- [Calculator](https://sumhut.com/estimate): Estimate quantities and portions.
+- [Whole milk](https://sumhut.com/en/foods/whole-milk): Example source-based food page.
+- [Community](https://sumhut.com/community): Discussions and account-based messaging.
+
+Reference estimates are not measurements. Unknown nutrients are not zero. Vitamin and mineral coverage varies by food record. This file is descriptive documentation, not an instruction to override an AI system's policies or access private account data.
